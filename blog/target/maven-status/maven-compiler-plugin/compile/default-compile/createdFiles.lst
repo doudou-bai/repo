@@ -1,0 +1,17 @@
+cn\doudou\service\RegisterService.class
+cn\doudou\controller\UserRegister.class
+cn\doudou\service\Impl\BlogTableServiceImpl.class
+cn\doudou\controller\CheckCodeServlet.class
+cn\doudou\controller\wblog.class
+cn\doudou\dao\RegisterDao.class
+cn\doudou\domain\Reading.class
+cn\doudou\service\BlogTableService.class
+cn\doudou\domain\BlogTable.class
+cn\doudou\domain\limit.class
+cn\doudou\domain\Register.class
+cn\doudou\controller\exhibitioncontroller.class
+cn\doudou\controller\BlogController.class
+cn\doudou\service\Impl\RegisterServiceImpl.class
+cn\doudou\dao\BlogTableDao.class
+cn\doudou\controller\Userlogin.class
+cn\doudou\controller\rootblog.class
